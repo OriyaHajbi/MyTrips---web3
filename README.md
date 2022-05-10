@@ -15,7 +15,7 @@
 
 - Open the terminal and run `npm run devStart`.
 
-- To initialize the DB please do a POST HTTP request to this URL:
+- To initialize the DB please do a POST HTTP request to this URL (in route.rest - line 30) :
   `http://localhost:5500/init`
 
 - Open this URL (`http://localhost:5500/main_page`) in your favorite web service.

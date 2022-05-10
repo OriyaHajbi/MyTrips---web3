@@ -26,6 +26,13 @@
     "pictures": ["costarica1" , "costarica2"],
     "description": "Costa Rica, a tropical country belonging to the Strip of the Land of Fire is located in the Central American region. It is bordered to the north by the state of Nicaragua and to the south by Panama, to the east by the Caribbean coast and to the west by the Pacific coast. It offers visitors a variety of attractions: from extreme activities to fascinating treks in its nature reserves. Costa Rica has beautiful beaches, active volcanoes, and of course interesting colorful culture. Costa Rica is divided by volcanoes and mountain ranges of the Sierra Marda ridge, which stretches along the entire western part of America. In Costa Rica, there are four mountain ranges - in the north: Guanacaste and Tilaran, in the south: Central and Talamanca. There are countless volcanoes in its area, 42 of which are still active and therefore are occasionally visited by earthquakes. The highest point in the country is Mount Chirripo, which rises to a height of 3,797 meters. San Jose is the capital of Costa Rica and its largest city. ",
     "canBeDeleted": false
+  },
+    {
+    "siteUrl": "bolivia",
+    "siteName": "Bolivia",
+    "pictures": ["bolivia3" , "bolivia4"],
+    "description": "Bolivia is one of the wildest and most interesting countries in South America, so it is advisable to incorporate it into your itinerary. It includes natural treasures that human hands have not yet spoiled, rich and fascinating culture, and colonialist and ancient architecture. Nearly sixty percent of the population in Bolivia are Native Americans and the rest are mixed. The various Native American dialects are still heard everywhere across the country. Ancient customs and religious traditions are still accepted. Despite the country’s many internal problems, especially poverty and poor sanitation, Bolivia has become a successful tourist destination. The most prominent attractions are the Salar de Uyuni (Salar) - the breathtaking salt desert, the beautiful Lake Titicaca, and of course La Paz, the capital-rich in culture and entertainment. As mentioned, the famous salt desert, amazing rainforests, fascinating culture, interesting people, pampas, markets, trekking, and what not. It is an interesting country, with beautiful areas, with many tourists and also with dangerous roads. The forests will captivate and draw you to them and the salt desert will make you elated.",
+    "canBeDeleted": false
   }
        
 ]
