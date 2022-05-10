@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>MySite</title>
+    <script src="js/publicCode.js"></script>
+</head>
+
+<body>
+    <div class="header-container">
+        <h1>The Most Beautiful Sites</h1>
+    </div>
+    <div class="buttons">
+        <a href="/add_site" target="myiframe" class="btn">Add Site</a>
+        <div>
+           <select name="plan" id="plan" class="btn" onchange="getHTMLSite()">
+            <option value="none" selected disabled hidden >Select Site</option>
+                {{ALL_SITES}}
+            </select>
+        </div>
+        <button id="delete" class="btn" onclick="deleteHTMLSite()">Delete Site</button>
+    </div>
+    <hr>
+    <div class="body-container">
+        <section>
+            <iframe name="myiframe" id="myiframe" src="/exmple_site" width="80%" height="450"></iframe>
+        </section>
+    </div>
+</body>
+
+</html>

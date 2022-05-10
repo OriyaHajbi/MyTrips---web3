@@ -1,0 +1,31 @@
+[
+    {
+    "siteUrl": "mexico",
+    "siteName": "Mexico",
+    "pictures": ["mexico1" , "mexico2"],
+    "description": "The area of ​​Mexico is estimated at 1,972,547 square kilometers, ninety times the area of ​​the State of Israel. The Spanish language is the official language of Mexico, but in places, farther from the center of the country, you can find other languages, fifty different languages ​​of Native Americans. Mexican English speakers can be found easily, but it is not true to say this about all of Mexico. Mostly rural and you should know a little basic Spanish to get by.",
+    "canBeDeleted": false
+  },
+  {
+    "siteUrl": "peru",
+    "siteName": "Peru",
+    "pictures": ["peru1" ,"peru3"],
+    "description": "Peru is the main hiking destination in the South American continent, a diverse country with a lot to offer tourists and backpackers: many interesting archeological sites, pristine beaches, hiking trails in the mountains for trekking enthusiasts, adventure hikes, nature walks, stunning landscapes, sociable people, festivals, Music and freedom. The exotic and wild Peru is inhabited by about 27 million people, a fascinating mix of different origins. You will meet them in colonial cities like Arequipa, in the famous Inca ruins of Machu Picchu, in the picturesque Lake Titicaca, and of course in the vibrant and large capital city - Lima.",
+    "canBeDeleted": false
+  },
+   {
+    "siteUrl": "brazil",
+    "siteName": "Brazil",
+    "pictures": ["brazil1", "brazil2"],
+    "description": "Brazil, the fifth largest country in the world and the largest in the continent of South America, is a fascinating blend of cultures, beliefs, folklore, cities, and spectacular natural landscapes. Brazil is a diverse country and offers visitors colorful and stormy carnivals, amazing rainforests with rich flora and fauna, and we have not said a word about the beaches .... what beaches. Love football? Do not miss a visit to the Maracana Stadium of Rio de Janeiro, one of the most beautiful cities in the world. Looking for wild nature? Come for a cruise on the Panamanian swamps or the wild Amazon River. And if all you want is to just rest and relax, the ideal place is the north, with beautiful places like Olinda, Recife, and Salvador. In any case - enjoyment is guaranteed! Whether it's the world-famous Carnival in Rio de Janeiro, Brazil's excellent football, famous beaches, or the hottest people, Brazil is a great destination for a varied trip. This is a huge country, the largest in South America so you have everything here. Indulge in the beaches, soak up the wild jungles of the Amazon, visit the mighty Iguassu Falls and enjoy the culture and cities.",
+    "canBeDeleted": false
+  },
+   {
+    "siteUrl": "costaRica",
+    "siteName": "Costa Rica",
+    "pictures": ["costarica1" , "costarica2"],
+    "description": "Costa Rica, a tropical country belonging to the Strip of the Land of Fire is located in the Central American region. It is bordered to the north by the state of Nicaragua and to the south by Panama, to the east by the Caribbean coast and to the west by the Pacific coast. It offers visitors a variety of attractions: from extreme activities to fascinating treks in its nature reserves. Costa Rica has beautiful beaches, active volcanoes, and of course interesting colorful culture. Costa Rica is divided by volcanoes and mountain ranges of the Sierra Marda ridge, which stretches along the entire western part of America. In Costa Rica, there are four mountain ranges - in the north: Guanacaste and Tilaran, in the south: Central and Talamanca. There are countless volcanoes in its area, 42 of which are still active and therefore are occasionally visited by earthquakes. The highest point in the country is Mount Chirripo, which rises to a height of 3,797 meters. San Jose is the capital of Costa Rica and its largest city. ",
+    "canBeDeleted": false
+  }
+       
+]

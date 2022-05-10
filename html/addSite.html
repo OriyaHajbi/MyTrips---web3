@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset='utf-8'>
+</head>
+<body>
+    <div class="divForm">
+
+        <form target="_blank" action="/sites" method="POST" enctype="multipart/form-data">
+            <div class="AddSitePage">
+        <h1>Add Site</h1>
+        <div class="addSite" >
+            <label for="place_siteName">Site name: </label>
+            <input id="place_siteName" style="width: 300px;" name="place_siteName">
+        </div>
+        <div class="addDesc">
+            <label for="place_description">Description: </label>
+            <input id="place_description" name="place_description" style="width: 300px; height: 100px;">
+        </div>
+        <div class="addPhoto">
+            <label>Add some photos:</label>
+            <input type="file" accept="image/jpeg, image/png, image/jpg">
+            <br>
+            <input type="file" accept="image/jpeg, image/png, image/jpg" style="margin-left: 150px;">
+        </div>
+        <button class="btn" style="margin-left: 550px; margin-top: 30px;" onclick="setTimeout(() => {parent.location.reload();}, 1000);">Confirm</button>
+        </form>
+    </div>
+</body>
+</html>
